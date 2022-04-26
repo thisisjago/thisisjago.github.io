@@ -2,12 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jago.do/tags/bitcoin/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jago.do/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jago.do/tags/minimalismo/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jago.do/posts/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jago.do/tags/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jago.do/2022/04/una-forma-simple-de-ver-bitcoin/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jago.do/acerca/</loc>
   </url><url>
     <loc>https://jago.do/categories/</loc>
-  </url><url>
-    <loc>https://jago.do/</loc>
-  </url><url>
-    <loc>https://jago.do/tags/</loc>
   </url>
 </urlset>
